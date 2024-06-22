@@ -1,6 +1,6 @@
 
 
-<h1>Mobile ChatBot App with Flutter and Gemini API</h1>
+<h1>Flutter App BloC</h1>
 <table>
     <tr>
         <td>
